@@ -1,4 +1,4 @@
 # Vlang
 ----
 ## These tools are just for fun. Could look for improvements!
-* - Password Manager *
+**- Password Manager**
