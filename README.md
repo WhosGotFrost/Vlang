@@ -4,5 +4,6 @@
 ---
 ### Current tools:
 
-***- Password Manager*** \n
+***- Password Manager***
+
 ***- Password Generator***
